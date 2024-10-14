@@ -48,9 +48,10 @@ This Python program simulates a crafting system based on specified recipes. It a
            ...
        }
    }
+
 2. Run the Script: Execute the Python script. It will read the crafting.json file, check the current state, and search for a plan to reach the goal.
-```bash
-python crafting_simulator.py
+   ```bash
+   python crafting_simulator.py
 
 3. Output: The resulting crafting plan will be printed, showing the sequence of actions and resulting states.
 
